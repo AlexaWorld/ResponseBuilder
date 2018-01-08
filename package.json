@@ -1,0 +1,30 @@
+{
+  "name": "alexaworld-responsebuilder",
+  "version": "1.0.0",
+  "description": "Response builder vor alexa requests",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexaWorld/ResponseBuilder.git"
+  },
+  "keywords": [
+    "alexa",
+    "alexa",
+    "response",
+    "skill",
+    "response",
+    "builder"
+  ],
+  "author": "Peter Ullrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexaWorld/ResponseBuilder/issues"
+  },
+  "homepage": "https://github.com/AlexaWorld/ResponseBuilder#readme"
+}
