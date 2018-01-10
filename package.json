@@ -1,6 +1,6 @@
 {
   "name": "alexaworld-responsebuilder",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Response builder vor alexa requests",
   "main": "index.js",
   "directories": {
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/AlexaWorld/ResponseBuilder/issues"
   },
-  "homepage": "https://github.com/AlexaWorld/ResponseBuilder#readme"
+  "homepage": "https://github.com/AlexaWorld/ResponseBuilder#readme",
+  "dependencies": {
+    "alexaworld-nodejs-common": "^1.0.1"
+  }
 }
