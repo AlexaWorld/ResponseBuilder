@@ -1,6 +1,6 @@
 {
   "name": "alexaworld-responsebuilder",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Response builder vor alexa requests",
   "main": "index.js",
   "directories": {
